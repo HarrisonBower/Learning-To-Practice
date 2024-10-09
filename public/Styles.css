@@ -1,0 +1,26 @@
+body {
+    background-color: #eeeeff;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.sub-heading {
+    text-align: center;
+}
+
+hr {
+    color: black;
+    width: 100%;
+}
+
+a {
+    color: teal;
+    
+}
+
+a:hover {
+    color: red;
+}
